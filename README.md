@@ -34,9 +34,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [RECIPE APP] <a name="about-project"></a>
+# 📖 [hello-rails-back-end] <a name="about-project"></a>
 
-**[Messages App]**  is a web application that serves as a test for the Microverse Final Capstone project, which teaches how to use a rails app as backend.
+**[hello-rails-back-end]**  is a web application that serves as a test for the Microverse Final Capstone project, which teaches how to use rails app as a backend.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 Link: [front end](https://github.com/danielochuba/hello-react-front-end/pull/1)
@@ -45,11 +45,9 @@ Link: [front end](https://github.com/danielochuba/hello-react-front-end/pull/1)
 
 1- Ruby 3.2.2<br>
 2- Rails 7.0.7.2<br>
-3- React 17.0.2<br>
-4- PostgreSQL<br>
-5- Gitflow<br>
-6- Rubocop<br>
-7- RSpec
+3- PostgreSQL<br>
+4- Gitflow<br>
+5- Rubocop<br>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -105,17 +103,15 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone "https://github.com/danielochuba/messages_app.git"
+  git clone "https://github.com/danielochuba/hello-rails-back-end.git"
 ```
 ### Install
 
-Go to your /budget-app folder:
+Go to your /hello-rails-back-end folder:
 
 ```sh
-  cd messages_app
+  cd hello-rails-back-end
   bundle install
-  npm install
-  npm run build
   rails server
 ```
 
